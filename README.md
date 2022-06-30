@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm learning web development using HTML5 and CSS3 languages.</p>
+<p align="left">I'm learning web development using HTML5, CSS3 and JavaScript languages.</p>
 
 ###
 
