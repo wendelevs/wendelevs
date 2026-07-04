@@ -30,7 +30,7 @@ I enjoy solving real-world problems through software, creating reliable systems,
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,docker,git,linux,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,docker,git,linux,tailwind,vscode" />
 </p>
 
 ---
@@ -38,11 +38,18 @@ I enjoy solving real-world problems through software, creating reliable systems,
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wendelevs&show_icons=true&theme=radical&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelevs&layout=compact&theme=radical"/>
-
+  <a href="https://github.com/wendelevs">
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api?username=wendelevs&theme=radical&show_icons=true&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=wendelevs&layout=compact&theme=radical"
+      alt="Top Languages"
+    />
+  </a>
 </div>
 
 ---
@@ -60,18 +67,17 @@ I enjoy solving real-world problems through software, creating reliable systems,
 ## 🤝 Connect with me
 
 <p align="left">
-<a href="mailto:wendelev01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="[https://www.linkedin.com/in/wendelevs/](https://www.linkedin.com/in/wendelevs/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="mailto:wendelev01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="[https://www.linkedin.com/in/wendelevs/](https://www.linkedin.com/in/wendelevs/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wendelevs/wendelevs/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/wendelevs/wendelevs/output/github-contribution-grid-snake-dark.svg" />
 </p>
